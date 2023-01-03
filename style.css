@@ -4,3 +4,8 @@ p{
 h1{
     color: navy;
 }
+h2{
+    background-color: orangered;
+    height: 50%;
+    width: 50%;
+}
